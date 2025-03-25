@@ -1,6 +1,6 @@
 # Welcome to Laravel OpenSource 👋
 
-![Laravel OpenSource Banner](https://avatars.githubusercontent.com/u/198151413) <!-- You can replace this with the actual image URL -->
+🙋‍♀️
 
 ## 🙋‍♀️ About Us
 
