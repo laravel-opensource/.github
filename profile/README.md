@@ -18,7 +18,7 @@ Check out our forked projects at [our repositories](https://github.com/laravel-o
 
 ## 👩‍💻 Resources
 
-- **Video Tutorials**: Watch them on [our YouTube channel](https://bit.ly/laravel-opensource-channel) (replace with actual link).
+- **Video Tutorials**: Watch them on [our YouTube channel](https://bit.ly/los-channel).
 
 <!--
 - **Documentation**: Find details at [docs.laravel-opensource.org](https://docs.laravel-opensource.org) (replace with actual link).
