@@ -21,7 +21,7 @@ Explore community-driven projects and knowledge sharing at [our repositories](ht
 
 ## 👩‍💻 Resources
 
-- **Video Tutorials**: Learn how to use Open Sharing via our [YouTube channel]([https://bit.ly/opensharing-channel](https://www.youtube.com/playlist?list=PL6SpdfukQSTPygDe2LH1LxjKVzwEVF_Dy)).
+- **Video Tutorials**: Learn how to use Open Sharing via our [YouTube channel](https://www.youtube.com/playlist?list=PL6SpdfukQSTPygDe2LH1LxjKVzwEVF_Dy).
 - **Templates & Starters**: Get started fast with prebuilt templates for tech blogs, documentation portals, and internal wikis.
 
 <!--
