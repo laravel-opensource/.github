@@ -1,29 +1,34 @@
-# Welcome to Laravel OpenSource 👋
+# Welcome to Open Sharing 👋
 
 ## 🙋‍♀️ Who We Are
 
-Laravel OpenSource is an organization dedicated to forking and recreating open-source projects built on the Laravel framework. We don’t just set them up and rebuild them—we also provide detailed video tutorials to help the community easily access and use these projects. Our goals are:
+**Open Sharing** is an open-source platform designed for individuals and organizations to collaboratively create and share knowledge—whether it's documentation, blog posts, or technical guides—across all kinds of projects.  
 
-- To deliver fully functional recreations of notable open-source projects.
-- To assist users with step-by-step video installation guides.
-- To build a community that shares knowledge and expertise about Laravel.
+Our mission is:
+
+- To provide a collaborative space where multiple contributors can publish and maintain content.
+- To support structured, versioned documentation for projects large and small.
+- To foster an open, transparent knowledge-sharing culture for teams, communities, and the broader open-source ecosystem.
 
 ## 🌈 How We Work
 
-1. **Fork Projects**: We carefully select and fork high-quality open-source projects.
-2. **Setup & Rebuild**: We recreate the projects in real environments, ensuring everything runs smoothly.
-3. **Video Tutorials**: We record and share detailed videos on installing, configuring, and using the projects.
+1. **Open Collaboration**: Anyone can contribute content to projects—via Git or an intuitive editor UI.
+2. **Structured Content**: Organize documentation, blog posts, and knowledge bases under each project.
+3. **Moderation & Access Control**: Projects can define roles (writer, reviewer, publisher) to ensure quality and trust.
+4. **Open Access or Private Use**: Choose to make your content public, or use Open Sharing as a private knowledge base for your team.
 
-Check out our forked projects at [our repositories](https://github.com/laravel-opensource).
+Explore community-driven projects and knowledge sharing at [our repositories](https://github.com/opensharing).
 
 ## 👩‍💻 Resources
 
-- **Video Tutorials**: Watch them on [our YouTube channel](https://bit.ly/los-channel).
+- **Video Tutorials**: Learn how to use Open Sharing via our [YouTube channel]([https://bit.ly/opensharing-channel](https://www.youtube.com/playlist?list=PL6SpdfukQSTPygDe2LH1LxjKVzwEVF_Dy)).
+- **Templates & Starters**: Get started fast with prebuilt templates for tech blogs, documentation portals, and internal wikis.
 
 <!--
-- **Documentation**: Find details at [docs.laravel-opensource.org](https://docs.laravel-opensource.org) (replace with actual link).
-- **Support**: Contact us at [support@laravel-opensource.org](mailto:support@laravel-opensource.org).
+- **Documentation**: See usage guides at [docs.opensharing.org](https://docs.opensharing.org) *(replace with actual link)*.
+- **Support**: Contact us at [support@opensharing.org](mailto:support@opensharing.org).
 -->
+
 ---
 
-**Join us in exploring and mastering Laravel open-source projects!**
+**Join us in building a shared knowledge network for all projects—open, organized, and accessible.**
